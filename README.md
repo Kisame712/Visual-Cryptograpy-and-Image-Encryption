@@ -13,3 +13,4 @@ Libraries used: base64, hashlib, Crypto.Cipher, Crypto.Random, numpy, cv2 and sk
 5. ToBeSent for Decryption folder stores the generated cipher text and key split images.
 6. On running the Decryption.ipynb file we get our original image named as DecryptedImg.
 Note: For another run some file names and folder names have been changed in the code.
+Reference - https://github.com/rn-snehapriya/Image-Encryption-Using-AES-and-Visual-Cryptography
